@@ -1,8 +1,8 @@
-<h3 align="center">Frontend developer (Reac.jst, Next.js)</h3>
+<h1 align="left">Hi 👋! My name is Badr Mohamed.</h1>
 
 ###
 
-<h2 align="center">Hi 👋! My name is Badr Mohamed.</h2>
+<h2 align="left">Frontend developer (Reac.jst, Next.js)</h2>
 
 ###
 
@@ -12,10 +12,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=badr274&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=badr274&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnF3a3UyMXo1bXF5MHZvOHdicG9tNnZ1dDA1bGV2dmt3NTh3cGdqcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPhE5yjsrwijoqc/giphy.gif"  />
 
 ###
 
@@ -56,6 +52,10 @@
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" alt="firebase logo"  />
 </div>
+
+###
+
+<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnF3a3UyMXo1bXF5MHZvOHdicG9tNnZ1dDA1bGV2dmt3NTh3cGdqcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPhE5yjsrwijoqc/giphy.gif"  />
 
 ###
 
